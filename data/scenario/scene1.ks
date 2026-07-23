@@ -36,6 +36,8 @@
 [chara_face name="akane" face="doki" storage="chara/akane/doki.png"]
 [chara_face name="akane" face="happy" storage="chara/akane/happy.png"]
 [chara_face name="akane" face="sad" storage="chara/akane/sad.png"]
+[chara_face name="akane" face="test" storage="chara/akane/Test.png"]
+
 
 ;ore 
 [chara_new name="ore"  storage="chara/yamato/normal.png" jname="おれ" ]
@@ -72,7 +74,7 @@
 [s  ]
 *selectinterest
 
-[chara_mod  name="akane" face="happy"  ]
+[chara_mod  name="akane" face="test"  ]
 #あかね
 わー。興味あるなんて、嬉しいなー。[p]
 #おれ
